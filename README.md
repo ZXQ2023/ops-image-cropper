@@ -81,13 +81,13 @@ src/
 ## 📸 界面预览
 
 ### 上传界面
-![上传界面](screenshots/upload.png)
+![上传界面](./screenshots/upload.png)
 
 ### 裁剪编辑
-![裁剪编辑](screenshots/crop-editor.png)
+![裁剪编辑](./screenshots/crop-editor.png)
 
 ### 结果预览与下载
-![结果预览与下载](screenshots/result-preview.png)
+![结果预览与下载](./screenshots/result-preview.png)
 
 ## 📄 License
 
